@@ -1,0 +1,12 @@
+H:\FTFL\ASP.NET APP\EmployeeInfoAppUsingLayer\EmployeeInfoAppUsingLayer\bin\Debug\EmployeeInfoAppUsingLayer.exe.config
+H:\FTFL\ASP.NET APP\EmployeeInfoAppUsingLayer\EmployeeInfoAppUsingLayer\obj\Debug\EmployeeInfoAppUsingLayer.Properties.Resources.resources
+H:\FTFL\ASP.NET APP\EmployeeInfoAppUsingLayer\EmployeeInfoAppUsingLayer\obj\Debug\EmployeeInfoAppUsingLayer.UI.DesignationUI.resources
+H:\FTFL\ASP.NET APP\EmployeeInfoAppUsingLayer\EmployeeInfoAppUsingLayer\obj\Debug\EmployeeInfoAppUsingLayer.UI.EmployeeInfoUI.resources
+H:\FTFL\ASP.NET APP\EmployeeInfoAppUsingLayer\EmployeeInfoAppUsingLayer\obj\Debug\EmployeeInfoAppUsingLayer.MainUI.resources
+H:\FTFL\ASP.NET APP\EmployeeInfoAppUsingLayer\EmployeeInfoAppUsingLayer\obj\Debug\EmployeeInfoAppUsingLayer.UI.SearchEmployeeUI.resources
+H:\FTFL\ASP.NET APP\EmployeeInfoAppUsingLayer\EmployeeInfoAppUsingLayer\obj\Debug\EmployeeInfoAppUsingLayer.csproj.GenerateResource.Cache
+H:\FTFL\ASP.NET APP\EmployeeInfoAppUsingLayer\EmployeeInfoAppUsingLayer\bin\Debug\EmployeeInfoAppUsingLayer.exe
+H:\FTFL\ASP.NET APP\EmployeeInfoAppUsingLayer\EmployeeInfoAppUsingLayer\bin\Debug\EmployeeInfoAppUsingLayer.pdb
+H:\FTFL\ASP.NET APP\EmployeeInfoAppUsingLayer\EmployeeInfoAppUsingLayer\obj\Debug\EmployeeInfoAppUsingLayer.exe
+H:\FTFL\ASP.NET APP\EmployeeInfoAppUsingLayer\EmployeeInfoAppUsingLayer\obj\Debug\EmployeeInfoAppUsingLayer.pdb
+H:\FTFL\ASP.NET APP\EmployeeInfoAppUsingLayer\EmployeeInfoAppUsingLayer\obj\Debug\EmployeeInfoAppUsingLayer.csprojResolveAssemblyReference.cache
